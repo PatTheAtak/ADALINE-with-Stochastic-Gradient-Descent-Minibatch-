@@ -1,1 +1,1 @@
-# ADALINE-with-Stochastic-Gradient-Descent-Minibatch-
+# ADALINE with SGD
